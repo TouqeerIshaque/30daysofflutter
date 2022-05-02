@@ -1,21 +1,26 @@
 import 'package:flutter/material.dart';
+import 'package:flutter_application_1/pages/homepage.dart';
+import 'package:flutter_application_1/pages/loginpage.dart';
  void main() {
 runApp(myApp());  
 }
 
 class myApp extends StatelessWidget {
-  const myApp({ Key? key }) : super(key: key);
+  int days =302;
 
   @override
   Widget build(BuildContext context) {
     return MaterialApp(
-      home: Material(
-        child: Center(
-          child: Container(
-            child: Text("Welcome to  300 days of flutter "),
-          ),
-        ),
+      // home:HomePage() ,
+      themeMode: ThemeMode.dark,
+      darkTheme: ThemeData(
+        brightness: Brightness.dark
       ),
+      
+      routes: {
+      "/"  : (context) => Loginpage(),
+      "/loginpage" : (context) => Loginpage()
+      }
     );
   }
 }
