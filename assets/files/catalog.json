@@ -1,0 +1,73 @@
+{
+ "products" : [
+
+    {
+        "id": 1,
+        "name": "Iphone 12 pro max s ",
+        "desc" : "A 13 bionic chip 6 gb RAM latest phone " , 
+        "color": "#33505a",
+        "price": 999,
+        "image":
+        "https://i.postimg.cc/4yV55FnR/swappie-product-iphone-12-pro-max-gold-back.png"  
+
+    }
+,
+    {
+        "id": 2,
+        "name": "Pixel 5 ",
+        "desc" : "Google pixel phone 5th gen" , 
+        "color": "#00ac51",
+        "price": 699,
+        "image":
+        "https://i.postimg.cc/g2r8F8bN/download.jpg"  
+
+    }
+
+    ,
+    {
+        "id": 3,
+        "name": "MAcbook Air ",
+        "desc" : "macbook iar with m1 chip" , 
+        "color": "#e0bfae",
+        "price": 1699,
+        "image":
+        "https://i.postimg.cc/tCdpqMpg/kiev-ukraine-october-13-2017-260nw-776439892.webp"  
+
+    }
+
+    ,
+    {
+        "id": 4,
+        "name": "Playstation 5 ",
+        "desc" : "new PS5 with 8K" , 
+        "color": "#544ee4",
+        "price": 1399,
+        "image":
+        "https://i.postimg.cc/Pqw6HBn3/download-1.jpg"  
+
+    }
+,
+    {
+        "id": 5,
+        "name": "AIrpods  pro  ",
+        "desc" : "airpods pro 3rd Gen" , 
+        "color": "#e3e4e9",
+        "price": 399,
+        "image":
+        "https://i.postimg.cc/rwCmHpKQ/download-2.jpg"  
+
+    }
+
+    ,
+    {
+        "id": 6,
+        "name": " Ipad pro  ",
+        "desc" : "ipad pro with M1 Chip" , 
+        "color": "#f73984",
+        "price": 2399,
+        "image":
+        "https://i.postimg.cc/FHZc2vRg/i-Pad-Pro-12-9-inch-512-GB-Wi-Fi-Silver.png"  
+
+    }
+ ]   
+}
