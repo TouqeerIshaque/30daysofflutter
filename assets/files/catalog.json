@@ -3,12 +3,12 @@
 
     {
         "id": 1,
-        "name": "Iphone 12 pro max s ",
-        "desc" : "A 13 bionic chip 6 gb RAM latest phone " , 
+        "name": "Iphone 12 pro max  ",
+        "desc" : "A 13 bionic chip with 6 GB RAM " , 
         "color": "#33505a",
-        "price": 999,
+        "price":1999,
         "image":
-        "https://i.postimg.cc/4yV55FnR/swappie-product-iphone-12-pro-max-gold-back.png"  
+        "https://i.postimg.cc/Y94D9RHy/sw-appie-product-iphone-12-pro-max-gold-back-removebg-preview.png"  
 
     }
 ,
@@ -19,7 +19,7 @@
         "color": "#00ac51",
         "price": 699,
         "image":
-        "https://i.postimg.cc/g2r8F8bN/download.jpg"  
+        "https://i.postimg.cc/RZSLbdNJ/pixel-5.png"  
 
     }
 
@@ -31,7 +31,7 @@
         "color": "#e0bfae",
         "price": 1699,
         "image":
-        "https://i.postimg.cc/tCdpqMpg/kiev-ukraine-october-13-2017-260nw-776439892.webp"  
+        "https://i.postimg.cc/sxCFCqhJ/download-1-removebg-preview.png"  
 
     }
 
@@ -43,7 +43,7 @@
         "color": "#544ee4",
         "price": 1399,
         "image":
-        "https://i.postimg.cc/Pqw6HBn3/download-1.jpg"  
+        "https://i.postimg.cc/HLKDBVWR/i-Pad-Pro-12-9-inch-512-GB-Wi-Fi-Silver.png"  
 
     }
 ,
@@ -54,7 +54,7 @@
         "color": "#e3e4e9",
         "price": 399,
         "image":
-        "https://i.postimg.cc/rwCmHpKQ/download-2.jpg"  
+        "https://i.postimg.cc/DZXVDn8Z/download-2-removebg-preview.png"  
 
     }
 
@@ -69,5 +69,17 @@
         "https://i.postimg.cc/FHZc2vRg/i-Pad-Pro-12-9-inch-512-GB-Wi-Fi-Silver.png"  
 
     }
+,
+{
+    "id": 6,
+    "name": " Ipad pro  ",
+    "desc" : "ipad pro with M1 Chip" , 
+    "color": "#f73984",
+    "price": 2399,
+    "image":
+    "https://i.postimg.cc/FHZc2vRg/i-Pad-Pro-12-9-inch-512-GB-Wi-Fi-Silver.png"  
+
+}
+        
  ]   
 }
